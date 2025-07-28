@@ -1,2 +1,2 @@
-# Kim-SeongGeon's Personal-Portfolio
+# SeongGeon's Personal-Portfolio
 Record my coding life
