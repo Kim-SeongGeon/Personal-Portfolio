@@ -29,7 +29,7 @@ Record my coding life✍️
 
 ## 📁 Java Projects
 
-### 🟢 Gym Kiosk System
+### 🟢 [Gym Kiosk System](https://github.com/Kim-SeongGeon/Personal-Portfolio/tree/main/GYM_pjt)
 - 🏋️‍♂️ An unmanned kiosk system supporting gym member check-in/out, time-based access, and membership payment
 - 🖥️ Implemented an intuitive touch-based interface that allows users to check in with simple on-screen selections
 - 🔄 Features include member registration and lookup, usage time tracking, and access history logging
@@ -37,7 +37,7 @@ Record my coding life✍️
 
 <!--🔗 [GitHub Repository 링크](https://github.com/사용자명/Store-Menu-System)-->
 
-### 🟢 The Venti Kiosk (Cafe Ordering System)
+### 🟢 [The Venti Kiosk (Cafe Ordering System)](https://github.com/Kim-SeongGeon/Personal-Portfolio/tree/main/theventi_pjt)
 - ☕ An ordering kiosk UI inspired by the Korean franchise cafe "The Venti"
 - 🧋 Implements the full ordering process: menu and drink selection → option customization → payment
 <!--- 📦 관리자 페이지에서 메뉴 및 옵션 추가/삭제 가능-->
