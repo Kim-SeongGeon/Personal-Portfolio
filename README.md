@@ -1,9 +1,7 @@
 # SeongGeon's Personal-Portfolio
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=150&section=header&text=Java%20Developer%20Portfolio&fontSize=40" />
-Record my coding life
-
----
+Record my coding life✍️
 
 ## 🧑‍💻 About Me
 
