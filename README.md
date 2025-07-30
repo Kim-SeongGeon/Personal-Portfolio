@@ -35,16 +35,16 @@ Record my coding life✍️
 - 🔄 Features include member registration and lookup, usage time tracking, and access history logging
 - 🔧 Tech Stack: Java, Swing
 
-<!--🔗 [GitHub Repository 링크](https://github.com/사용자명/Store-Menu-System)-->
+<!--🔗 [GitHub Repository 링크](https://github.com/사용자명/Gym Kiosk System)-->
 
-### 🟢 [The Venti Kiosk (Cafe Ordering System)](https://github.com/Kim-SeongGeon/Personal-Portfolio/tree/main/theventi_pjt)
+### 🟢 [The Venti Kiosk (Java-based Cafe Ordering System)](https://github.com/Kim-SeongGeon/Personal-Portfolio/tree/main/theventi_pjt)
 - ☕ An ordering kiosk UI inspired by the Korean franchise cafe "The Venti"
 - 🧋 Implements the full ordering process: menu and drink selection → option customization → payment
 <!--- 📦 관리자 페이지에서 메뉴 및 옵션 추가/삭제 가능-->
 <!--- 🖥️ 해상도 1920x1080 기준의 실제 키오스크 UX를 모사-->
 - 🔧 Tech Stack: Java, Swing, MySQL
 
-<!--🔗 [GitHub Repository 링크](https://github.com/사용자명/Store-Menu-System)-->
+<!--🔗 [GitHub Repository 링크](https://github.com/사용자명/The Venti Kiosk)-->
 
 ### 🟢 Pyeonchelin – Convenience Store Food Review Website
 - 🍱 A Node.js-based web service that allows users to leave ratings and reviews for foods sold at convenience stores
@@ -55,7 +55,15 @@ Record my coding life✍️
 
 <!--🔗 [GitHub Repository 링크](https://github.com/사용자명/pyeonchelin)-->
 
-### 🟢 A chat application built using Java Socket programming
+### 🟢 McDelivery App (Java-based Food Delivery System)
+- 🍔 A food delivery simulation app inspired by McDonald's McDelivery service
+- 📱 Implements full delivery flow: store selection → menu browsing → cart management → delivery request
+- 💳 Includes user information input, payment screen, and order history view
+- 🔧 Tech Stack: Java, Swing, Threading, MySQL
+
+<!--🔗 [GitHub Repository 링크](https://github.com/사용자명/McDelivery App)-->
+
+### 🟢 KaKaotalk App (A chat application built using Java Socket programming
 - 💬 Multi-user chat system implemented with a client-server architecture
 - 🧵 Real-time message transmission and reception using threads
 - 🔒 Includes client authentication and exception handling for abnormal termination
