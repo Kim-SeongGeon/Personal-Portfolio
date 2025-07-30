@@ -50,7 +50,7 @@ Record my coding life✍️
 - 💬 Multi-user chat system implemented with a client-server architecture
 - 🧵 Real-time message transmission and reception using threads
 - 🔒 Includes client authentication and exception handling for abnormal termination
-- 🔧 Tech Stack: Java, Swing, Socekt, MySQL
+- 🔧 Tech Stack: Java, Swing, Threading, Socket Programming, MySQL
 
 <!--🔗 [GitHub Repository 링크](https://github.com/사용자명/Java-Socket-Chat)-->
 
