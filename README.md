@@ -27,7 +27,7 @@ Record my coding life✍️
 
 ---
 
-## 📁 Java Projects
+## 📁 Projects
 
 ### 🟢 [Gym Kiosk System](https://github.com/Kim-SeongGeon/Personal-Portfolio/tree/main/GYM_pjt)
 - 🏋️‍♂️ An unmanned kiosk system supporting gym member check-in/out, time-based access, and membership payment
