@@ -51,7 +51,7 @@ Record my coding life✍️
 - 📝 Features include user login, food item registration, rating and review submission, and a like function
 - 📊 Stores and retrieves data using MySQL, with review sorting and average rating calculation
 - 🎨 Simple UI templating using Bootstrap + EJS
-- 🔧 Tech Stack: Node.js, Express, MYSQL, EJS, JavaScript
+- 🔧 Tech Stack: Node.js, Express, MySQL, EJS, JavaScript
 
 <!--🔗 [GitHub Repository 링크](https://github.com/사용자명/pyeonchelin)-->
 
