@@ -1,7 +1,7 @@
 # 📱💬 카카오톡 앱 (Java)
 
-[![KR](https://img.shields.io/badge/README-한국어-blue)](./README.theventi.ko.md)
-[![EN](https://img.shields.io/badge/README-English-red)](./README.theventi.md)
+[![KR](https://img.shields.io/badge/README-한국어-blue)](./README.kakaotalkapp.ko.md)
+[![EN](https://img.shields.io/badge/README-English-red)](./README.kakaotalkapp.md)
 
 ## 📖 프로젝트 배경 및 목표
 
