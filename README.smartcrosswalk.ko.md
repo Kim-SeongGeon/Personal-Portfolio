@@ -1,7 +1,7 @@
 # 🚦 스마트 점멸 신호등 사이트 (Java)
 
-[![KR](https://img.shields.io/badge/README-한국어-blue)](./README.pyeonchelin.ko.md)
-[![EN](https://img.shields.io/badge/README-English-red)](./README.pyeonchelin.md)
+[![KR](https://img.shields.io/badge/README-한국어-blue)](./README.smartcrosswalk.ko.md)
+[![EN](https://img.shields.io/badge/README-English-red)](./README.smartcrosswalk.md)
 
 ## 📖 프로젝트 배경 및 목표
 
