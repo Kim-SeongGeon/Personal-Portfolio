@@ -29,7 +29,7 @@ Record my coding life✍️
 
 ## 📁 Projects
 
-### 🟢 [Gym Kiosk System]([https://github.com/Kim-SeongGeon/Personal-Portfolio/tree/main/GYM_pjt](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.gym.md))
+### 🟢 [Gym Kiosk System](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.gym.md)
 - 🏋️‍♂️ An unmanned kiosk system supporting gym member check-in/out, time-based access, and membership payment
 - 🖥️ Implemented an intuitive touch-based interface that allows users to check in with simple on-screen selections
 - 🔄 Features include member registration and lookup, usage time tracking, and access history logging
