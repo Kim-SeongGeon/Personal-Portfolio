@@ -3,6 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=150&section=header&text=A%20Developer's%20Journey%20Begins&fontSize=40" />
 Record my coding life✍️
 
+[![KR](https://img.shields.io/badge/README-한국어-blue)](./README.ko.md)
+[![EN](https://img.shields.io/badge/README-English-red)](./README.md)
+
 ## 🧑‍💻 About Me
 
 - ☕ I specialize in Java-based backend development, with experience in leading web and server projects.
@@ -35,12 +38,16 @@ Record my coding life✍️
 - 🔄 Features include member registration and lookup, usage time tracking, and access history logging
 - 🔧 Tech Stack: Java, Swing
 
+---
+
 ### 🟢 [The Venti Kiosk (Java-based Cafe Ordering System)](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.theventi.md)
 - ☕ An ordering kiosk UI inspired by the Korean franchise cafe "The Venti"
 - 🧋 Implements the full ordering process: menu and drink selection → option customization → payment
 <!--- 📦 관리자 페이지에서 메뉴 및 옵션 추가/삭제 가능-->
 <!--- 🖥️ 해상도 1920x1080 기준의 실제 키오스크 UX를 모사-->
 - 🔧 Tech Stack: Java, Swing, MySQL
+
+---
 
 ### 🟢 [Pyeonchelin (Convenience Store Food Review Website)](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.pyeonchelin.md)
 - 🍱 A Node.js-based web service that allows users to leave ratings and reviews for foods sold at convenience stores
@@ -49,11 +56,15 @@ Record my coding life✍️
 - 🎨 Simple UI templating using Bootstrap + EJS
 - 🔧 Tech Stack: Node.js, Express, MySQL, EJS, JavaScript
 
+---
+
 ### 🟢 [McDelivery App (Java-based Food Delivery System)](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.mcdeliveryapp.md)
 - 🍔 A food delivery simulation app inspired by McDonald's McDelivery service
 - 📱 Implements full delivery flow: store selection → menu browsing → cart management → delivery request
 - 💳 Includes user information input, payment screen, and order history view
 - 🔧 Tech Stack: Java, Swing, Threading, MySQL
+
+---
 
 ### 🟢 [KaKaotalk App (A chat application built using Java Socket programming)](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.kakaotalkapp.md)
 - 💬 Multi-user chat system implemented with a client-server architecture
