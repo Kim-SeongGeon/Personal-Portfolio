@@ -37,7 +37,7 @@ Record my coding life✍️
 
 <!--🔗 [GitHub Repository 링크](https://github.com/사용자명/Gym Kiosk System)-->
 
-### 🟢 [The Venti Kiosk (Java-based Cafe Ordering System)](https://github.com/Kim-SeongGeon/Personal-Portfolio/tree/main/theventi_pjt)
+### 🟢 [The Venti Kiosk (Java-based Cafe Ordering System)](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.theventi.md)
 - ☕ An ordering kiosk UI inspired by the Korean franchise cafe "The Venti"
 - 🧋 Implements the full ordering process: menu and drink selection → option customization → payment
 <!--- 📦 관리자 페이지에서 메뉴 및 옵션 추가/삭제 가능-->
