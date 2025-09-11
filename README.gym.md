@@ -1,5 +1,8 @@
 # 🏋️‍♂️ Gym Kiosk System (Java)
 
+[![KR](https://img.shields.io/badge/README-한국어-blue)](./README_KR.md)
+[![EN](https://img.shields.io/badge/README-English-red)](./README.md)
+
 ## 📖 Project Background & Objectives
 - Developed a kiosk that allows gym users to intuitively manage memberships, make payments, and check workout programs.
 - Aimed to automate processes traditionally reliant on manual work or front desk staff, thereby improving operational efficiency.
