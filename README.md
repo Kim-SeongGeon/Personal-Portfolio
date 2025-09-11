@@ -1,6 +1,6 @@
 # SeongGeon's Personal-Portfolio
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=150&section=header&text=A%20Developer's%20Journey%20Begins&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=150&section=header&text=My%20Record%20of%20growing%20into%20code&fontSize=40" />
 Record my coding life✍️
 
 [![KR](https://img.shields.io/badge/README-한국어-blue)](./README.ko.md)
