@@ -1,4 +1,4 @@
-# ☕ 더벤티 키오스크 시스템 (Java)
+# ☕ 더벤티 카페 키오스크 시스템 (Java)
 
 [![KR](https://img.shields.io/badge/README-한국어-blue)](./README.theventi.ko.md)
 [![EN](https://img.shields.io/badge/README-English-red)](./README.theventi.md)
