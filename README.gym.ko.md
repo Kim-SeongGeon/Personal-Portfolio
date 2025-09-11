@@ -1,5 +1,8 @@
 # 🏋️‍♂️ 헬스장 키오스크 시스템 (Java)
 
+[![KR](https://img.shields.io/badge/README-한국어-blue)](./README.gym.ko.md)
+[![EN](https://img.shields.io/badge/README-English-red)](./README.gym.md)
+
 ## 📖 프로젝트 배경 및 목표
 - 헬스장 이용객이 직관적으로 회원 관리 및 결제, 운동 프로그램 확인 등을 할 수 있는 키오스크를 개발.
 - 기존 수작업/데스크 직원 의존도가 높은 절차를 자동화하여 운영 효율을 높이는 것을 목표로 함.
