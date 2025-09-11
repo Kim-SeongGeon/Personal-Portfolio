@@ -1,7 +1,7 @@
 # 🏋️‍♂️ Gym Kiosk System (Java)
 
-[![KR](https://img.shields.io/badge/README-한국어-blue)](./README_KR.md)
-[![EN](https://img.shields.io/badge/README-English-red)](./README.md)
+[![KR](https://img.shields.io/badge/README-한국어-blue)](./README.gym.ko.md)
+[![EN](https://img.shields.io/badge/README-English-red)](./README.gym.md)
 
 ## 📖 Project Background & Objectives
 - Developed a kiosk that allows gym users to intuitively manage memberships, make payments, and check workout programs.
