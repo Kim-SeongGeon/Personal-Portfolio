@@ -46,7 +46,7 @@ Record my coding life✍️
 
 <!--🔗 [GitHub Repository 링크](https://github.com/사용자명/The Venti Kiosk)-->
 
-### 🟢 Pyeonchelin (Convenience Store Food Review Website)
+### 🟢 [Pyeonchelin (Convenience Store Food Review Website)](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.pyeonchelin.md)
 - 🍱 A Node.js-based web service that allows users to leave ratings and reviews for foods sold at convenience stores
 - 📝 Features include user login, food item registration, rating and review submission, and a like function
 - 📊 Stores and retrieves data using MySQL, with review sorting and average rating calculation
@@ -55,7 +55,7 @@ Record my coding life✍️
 
 <!--🔗 [GitHub Repository 링크](https://github.com/사용자명/pyeonchelin)-->
 
-### 🟢 McDelivery App (Java-based Food Delivery System)
+### 🟢 [McDelivery App (Java-based Food Delivery System)](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.mcdeliveryapp.md)
 - 🍔 A food delivery simulation app inspired by McDonald's McDelivery service
 - 📱 Implements full delivery flow: store selection → menu browsing → cart management → delivery request
 - 💳 Includes user information input, payment screen, and order history view
@@ -63,7 +63,7 @@ Record my coding life✍️
 
 <!--🔗 [GitHub Repository 링크](https://github.com/사용자명/McDelivery App)-->
 
-### 🟢 KaKaotalk App (A chat application built using Java Socket programming)
+### 🟢 [KaKaotalk App (A chat application built using Java Socket programming)](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.kakaotalkapp.md)
 - 💬 Multi-user chat system implemented with a client-server architecture
 - 🧵 Real-time message transmission and reception using threads
 - 🔒 Includes client authentication and exception handling for abnormal termination
