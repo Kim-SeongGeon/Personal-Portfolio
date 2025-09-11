@@ -1,6 +1,6 @@
 # 성건의 Personal-Portfolio
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=150&section=header&text=개발자의%20여정은%20지금부터&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=150&section=header&text=코드로%20성장하는%20나의%20기록&fontSize=40" />
 나의 개발 기록✍️
 
 [![KR](https://img.shields.io/badge/README-한국어-blue)](./README.ko.md)
