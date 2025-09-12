@@ -70,7 +70,7 @@
 
 ---
 
-### 🟢 [카카오톡 d앱 (Java 소켓 채팅 앱)](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.kakaotalkapp.md)
+### 🟢 [카카오톡 앱 (Java 소켓 채팅 앱)](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.kakaotalkapp.md)
 - 💬 다중 사용자 채팅 시스템 (클라이언트-서버 구조)  
 - 🧵 실시간 메시지 송수신을 위한 멀티스레드 처리  
 - 🔒 클라이언트 인증 및 비정상 종료 대비 예외 처리 포함  
