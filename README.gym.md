@@ -87,6 +87,6 @@ This is a demo showing the key features of the gym kiosk system.
 
 ## 🚀 Future Improvements
 
-- **Database Migration**: Switch from text files to (lightweight) MySQL to improve
+- **Database Migration**: Switch from text files to MySQL to improve
 - **Modularization**: Separate DAO/Service layers, expand unit tests using test doubles.
 - **Kiosk Mode**: Add full-screen lock, idle (attract) screen, auto-launch script on reboot.
