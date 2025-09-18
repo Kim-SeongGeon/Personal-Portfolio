@@ -16,7 +16,7 @@
 ---
 
 ## 🎬 Demo Video
-This is a demo showing the key features of the gym kiosk system.
+This is a demo showing the key features of the gym kiosk system.  
 (Note: GIFs may take some time to load.)
 - 👤 Membership Management
 - 💳 Payment and Program Selection
