@@ -38,16 +38,16 @@
 - 🖥️ 직관적인 터치 기반 UI를 통해 회원이 간단히 체크인/체크아웃 가능  
 - 🔄 주요 기능: 회원 등록·조회, 사용 시간 추적, 출입 기록 관리  
 - ✅ **성과**: 수작업 절차를 자동화하여 운영 효율성 향상 및 사용자 편의 증대  
-- 🔧 **기술 스택**: Java, Swing  
+- 🔧 **기술 스택**: Java, Swing, TXT File  
 
 ---
 
-### 🟢 [더벤티 키오스크 (카페 주문 시스템)](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.theventi.ko.md)
+### 🟢 [카페 더벤티 키오스크 시스템](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.theventi.ko.md)
 - ☕ 한국 카페 프랜차이즈 *더벤티*를 모티브로 한 주문용 키오스크 UI  
 - 🧋 메뉴·음료 선택 → 옵션 커스터마이징 → 결제의 전체 주문 프로세스 구현  
 - 🖥️ 실제 키오스크 UX(1920x1080 해상도)를 고려한 설계  
 - ✅ **성과**: 카페 운영 시뮬레이션을 통해 사용자 경험 및 UI 흐름 개선  
-- 🔧 **기술 스택**: Java, Swing, MySQL  
+- 🔧 **기술 스택**: Java, Swing, Threading, MySQL  
 
 ---
 
