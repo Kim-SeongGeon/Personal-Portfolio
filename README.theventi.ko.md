@@ -1,4 +1,4 @@
-# ☕ 더벤티 카페 키오스크 시스템 (Java)
+# ☕ 카페 더벤티 키오스크 시스템 (Java)
 
 [![KR](https://img.shields.io/badge/README-한국어-blue)](./README.theventi.ko.md)
 [![EN](https://img.shields.io/badge/README-English-red)](./README.theventi.md)
@@ -17,7 +17,7 @@
 ---
 
 ## 🎬 결과 영상
-카페 더벤 키오스크 주요 기능 시연 화면입니다.  
+카페 더벤티티 키오스크 주요 기능 시연 화면입니다.  
 (※ GIF 파일은 로딩 시간이 다소 소요될 수 있습니다.)
 - ☕ 메뉴 선택
 - 🛒 장바구니 담기
