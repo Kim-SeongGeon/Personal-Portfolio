@@ -26,8 +26,8 @@ This is a demonstration of the main features of the Venti Café Kiosk system.
 - 💳 Payment Processing
 - 📊 Order History Management / View Popular Menu Items
 
-<img src = "https://github.com/user-attachments/assets/b4331c95-546b-42c8-97c2-d525a2504c5b" width = "400"/> - The Venti Kiosk System Demo (1)<br>
-<img src = "https://github.com/user-attachments/assets/bfbf5b79-cb6b-468a-99f9-b8caa698a51d" width = "400"/> - The Venti Kiosk System Demo (2)
+<img src = "https://github.com/user-attachments/assets/b4331c95-546b-42c8-97c2-d525a2504c5b" width = "400"/> - the Venti Kiosk System Demo (1)<br>
+<img src = "https://github.com/user-attachments/assets/bfbf5b79-cb6b-468a-99f9-b8caa698a51d" width = "400"/> - the Venti Kiosk System Demo (2)
 
 ---
 
