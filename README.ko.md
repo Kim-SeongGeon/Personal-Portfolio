@@ -33,7 +33,7 @@
 
 ## 📁 프로젝트
 
-### 🟢 [헬스장 키오스크 시스템](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.gym.ko.md)
+### 🏋️ [헬스장 키오스크 시스템](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.gym.ko.md)
 - 🏋️‍♂️ 무인 키오스크로 회원 등록, 출입, 결제 등을 지원하는 시스템  
 - 🖥️ 직관적인 터치 기반 UI를 통해 회원이 간단히 체크인/체크아웃 가능  
 - 🔄 주요 기능: 회원 등록·조회, 사용 시간 추적, 출입 기록 관리  
@@ -42,7 +42,17 @@
 
 ---
 
-### 🟢 [카페 더벤티 키오스크 시스템](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.theventi.ko.md)
+### 🌐 [스마트 횡단보도 웹사이트](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.smartcrosswalk.ko.md)
+- 📍 **설치 구역 조회**: 지역별 스마트 횡단보도 설치 위치와 설치 기간 확인
+- 👤 **회원 관리**: 회원가입, 로그인, 마이페이지(아이디, 연락처, 이메일 등 관리)
+- 🔒 **보안 처리**: 비밀번호 암호화 및 인증을 통한 안전한 사용자 관리
+- 💾 **DB 연동**: MySQL 기반으로 설치 구역 데이터, 사용자 정보 저장 및 조회
+- ✅ **성과**: 사용자 친화적인 UI와 DB 연동을 통해 실제 스마트 교통 인프라 데이터를 시각적으로 제공하고 관리 가능
+- 🔧 **기술 스택**: Java, JSP/Servlet, MariaDB, HTML/CSS, JavaScript
+
+---
+
+### ☕ [카페 더벤티 키오스크 시스템](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.theventi.ko.md)
 - ☕ 한국 카페 프랜차이즈 *더벤티*를 모티브로 한 주문용 키오스크 UI  
 - 🧋 메뉴·음료 선택 → 옵션 커스터마이징 → 결제의 전체 주문 프로세스 구현  
 - 🖥️ 실제 키오스크 UX(1920x1080 해상도)를 고려한 설계  
@@ -51,7 +61,7 @@
 
 ---
 
-### 🟢 [편슐랭 (편의점 음식 리뷰 웹사이트)](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.pyeonchelin.ko.md)
+### 🍙 [편슐랭 (편의점 음식 리뷰 웹사이트)](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.pyeonchelin.ko.md)
 - 🍱 편의점 음식을 평가·리뷰할 수 있는 Node.js 기반 웹 서비스  
 - 📝 주요 기능: 회원 로그인, 음식 등록, 리뷰 및 평점 작성, 좋아요 기능  
 - 📊 리뷰 정렬 및 평균 평점 계산, 데이터는 MySQL에 저장·조회  
@@ -61,7 +71,7 @@
 
 ---
 
-### 🟢 [맥딜리버리 앱 (Java 배달 시뮬레이션 시스템)](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.mcdeliveryapp.ko.md)
+### 🍔 [맥딜리버리 앱](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.mcdeliveryapp.ko.md)
 - 🍔 맥도날드 *McDelivery*를 모티브로 한 음식 배달 시뮬레이션 앱  
 - 📱 전체 주문 프로세스 구현: 매장 선택 → 메뉴 탐색 → 장바구니 관리 → 배달 요청  
 - 💳 사용자 정보 입력, 결제 화면, 주문 내역 조회 기능 포함  
@@ -70,7 +80,7 @@
 
 ---
 
-### 🟢 [카카오톡 앱 (Java 소켓 채팅 앱)](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.kakaotalkapp.ko.md)
+### 💬 [카카오톡 앱](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.kakaotalkapp.ko.md)
 - 💬 다중 사용자 채팅 시스템 (클라이언트-서버 구조)  
 - 🧵 실시간 메시지 송수신을 위한 멀티스레드 처리  
 - 🔒 클라이언트 인증 및 비정상 종료 대비 예외 처리 포함  
