@@ -32,7 +32,7 @@ Record my coding life✍️
 
 ## 📁 Projects
 
-### 🟢 [Gym Kiosk System](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.gym.md)
+### 🏋️ [Gym Kiosk System](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.gym.md)
 - 🏋️‍♂️ An unmanned kiosk system supporting gym member check-in/out, time-based access, and membership payment
 - 🖥️ Implemented an intuitive touch-based interface that allows users to check in with simple on-screen selections
 - 🔄 Features include member registration and lookup, usage time tracking, and access history logging
@@ -40,7 +40,17 @@ Record my coding life✍️
 
 ---
 
-### 🟢 [The Venti Kiosk (Java-based Cafe Ordering System)](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.theventi.md)
+### 🌐 [Smart Crosswalk Website](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.smartcrosswalk.md)
+- 📍 **Installation Area Lookup**: Check smart crosswalk installation locations and installation periods by region
+- 👤 **Member Management**: Sign up, log in, and manage personal information (ID, contact info, email, etc.) through My Page
+- 🔒 **Security Processing**: Secure user management through password encryption and authentication
+- 💾 **Database Integration**: Store and retrieve installation area data and user information using a MySQL-based system
+- ✅ **Achievements**: Delivers and manages real smart transportation infrastructure data visually through a user-friendly UI and database integration
+- 🔧 **Tech Stack**: Java, JSP/Servlet, MariaDB, HTML/CSS, JavaScript
+
+---
+
+### ☕ [The Venti Kiosk (Java-based Cafe Ordering System)](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.theventi.md)
 - ☕ An ordering kiosk UI inspired by the Korean franchise cafe "The Venti"
 - 🧋 Implements the full ordering process: menu and drink selection → option customization → payment
 <!--- 📦 관리자 페이지에서 메뉴 및 옵션 추가/삭제 가능-->
@@ -49,7 +59,7 @@ Record my coding life✍️
 
 ---
 
-### 🟢 [Pyeonchelin (Convenience Store Food Review Website)](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.pyeonchelin.md)
+### 🍙 [Pyeonchelin (Convenience Store Food Review Website)](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.pyeonchelin.md)
 - 🍱 A Node.js-based web service that allows users to leave ratings and reviews for foods sold at convenience stores
 - 📝 Features include user login, food item registration, rating and review submission, and a like function
 - 📊 Stores and retrieves data using MySQL, with review sorting and average rating calculation
@@ -58,7 +68,7 @@ Record my coding life✍️
 
 ---
 
-### 🟢 [McDelivery App (Java-based Food Delivery System)](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.mcdeliveryapp.md)
+### 🍔 [McDelivery App](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.mcdeliveryapp.md)
 - 🍔 A food delivery simulation app inspired by McDonald's McDelivery service
 - 📱 Implements full delivery flow: store selection → menu browsing → cart management → delivery request
 - 💳 Includes user information input, payment screen, and order history view
@@ -66,7 +76,7 @@ Record my coding life✍️
 
 ---
 
-### 🟢 [KaKaotalk App (A chat application built using Java Socket programming)](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.kakaotalkapp.md)
+### 💬 [KaKaotalk App](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.kakaotalkapp.md)
 - 💬 Multi-user chat system implemented with a client-server architecture
 - 🧵 Real-time message transmission and reception using threads
 - 🔒 Includes client authentication and exception handling for abnormal termination
