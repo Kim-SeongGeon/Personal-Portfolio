@@ -19,8 +19,8 @@
 
 ## 🎬 Demo Video
 
-This is a demonstration of the main features of the Venti Café Kiosk system.  
-(Note: GIFs may take some time to load.)
+Key features of the Venti Café Kiosk system demonstrated in a GIF (converted from MP4)  
+(*Note: GIF files may take a while to load.)
 - ☕ Menu Selection
 - 🛒 Add to Cart
 - 💳 Payment Processing
