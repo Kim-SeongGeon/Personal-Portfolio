@@ -71,7 +71,7 @@
 
 ---
 
-### 🍔 [맥딜리버리 앱 - 내용 작성 준비중...](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.mcdeliveryapp.ko.md)
+### 🍔 [맥딜리버리 앱](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.mcdeliveryapp.ko.md)
 - 🍔 맥도날드 *McDelivery*를 모티브로 한 음식 배달 시뮬레이션 앱  
 - 📱 전체 주문 프로세스 구현: 매장 선택 → 메뉴 탐색 → 장바구니 관리 → 배달 요청  
 - 💳 사용자 정보 입력, 결제 화면, 주문 내역 조회 기능 포함  
