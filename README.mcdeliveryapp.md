@@ -19,7 +19,7 @@
 
 ## 🎬 Demo Video
 
-Key features of the McDelivery App demonstrated in a GIF (converted from MP4)
+Key features of the McDelivery App demonstrated in a GIF (converted from MP4)  
 (*Note: GIF files may take a while to load.)
 - 👤 Login / Sign-Up
 - 🍔 Menu Selection
