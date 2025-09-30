@@ -61,7 +61,7 @@
 
 ---
 
-### 🍙 [편슐랭 (편의점 음식 리뷰 웹사이트)](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.pyeonchelin.ko.md)
+### 🍙 [편슐랭 (편의점 음식 리뷰 웹사이트) - 내용 작성 준비중...](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.pyeonchelin.ko.md)
 - 🍱 편의점 음식을 평가·리뷰할 수 있는 Node.js 기반 웹 서비스  
 - 📝 주요 기능: 회원 로그인, 음식 등록, 리뷰 및 평점 작성, 좋아요 기능  
 - 📊 리뷰 정렬 및 평균 평점 계산, 데이터는 MySQL에 저장·조회  
@@ -71,7 +71,7 @@
 
 ---
 
-### 🍔 [맥딜리버리 앱](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.mcdeliveryapp.ko.md)
+### 🍔 [맥딜리버리 앱 - 내용 작성 준비중...](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.mcdeliveryapp.ko.md)
 - 🍔 맥도날드 *McDelivery*를 모티브로 한 음식 배달 시뮬레이션 앱  
 - 📱 전체 주문 프로세스 구현: 매장 선택 → 메뉴 탐색 → 장바구니 관리 → 배달 요청  
 - 💳 사용자 정보 입력, 결제 화면, 주문 내역 조회 기능 포함  
@@ -80,7 +80,7 @@
 
 ---
 
-### 💬 [카카오톡 앱](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.kakaotalkapp.ko.md)
+### 💬 [카카오톡 앱 - 내용 작성 준비중...](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.kakaotalkapp.ko.md)
 - 💬 다중 사용자 채팅 시스템 (클라이언트-서버 구조)  
 - 🧵 실시간 메시지 송수신을 위한 멀티스레드 처리  
 - 🔒 클라이언트 인증 및 비정상 종료 대비 예외 처리 포함  
