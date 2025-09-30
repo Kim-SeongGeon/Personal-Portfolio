@@ -27,7 +27,9 @@ Key features of the McDelivery App demonstrated in a GIF (converted from MP4)
 - 💳 Checkout
 - 📦 View Order History / Delivery Status
 
+<img src="https://github.com/user-attachments/assets/ec232bdb-b09a-47c8-83d8-4be0acea2acd" width="400"/> - 맥딜리버리 앱 녹화본(1)<br>
 
+<img src="https://github.com/user-attachments/assets/c0150f17-23a6-42bf-a392-65a5354f95ff" width="400"/> - 맥딜리버리 앱 녹화본(2)
 
 ---
 
