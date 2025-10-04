@@ -80,7 +80,7 @@
 
 ---
 
-### 💬 [카카오톡 앱 - 내용 작성 준비중...](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.kakaotalkapp.ko.md)
+### 💬 [카카오톡 앱](https://github.com/Kim-SeongGeon/Personal-Portfolio/blob/main/README.kakaotalkapp.ko.md)
 - 💬 다중 사용자 채팅 시스템 (클라이언트-서버 구조)  
 - 🧵 실시간 메시지 송수신을 위한 멀티스레드 처리  
 - 🔒 클라이언트 인증 및 비정상 종료 대비 예외 처리 포함  
